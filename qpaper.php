@@ -47,8 +47,7 @@ $result1 = mysqli_query($db,$sql1);
                         </li>
                         <li>
                             <a href="qpaper.php" class="nav-link px-0 align-middle">
-                                <i class="fs-4 bi-table"></i> <span class="ms-1 d-none d-sm-inline">view qp
-                                    Requests</span></a>
+                                <i class="fs-4 bi-table"></i> <span class="ms-1 d-none d-sm-inline">view qp</span></a>
                         </li>
                     </ul>
                     <hr>
