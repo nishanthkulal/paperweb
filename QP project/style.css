@@ -1,0 +1,67 @@
+.USN{
+    border: 5px;
+    background-position: 0%;
+    text-align: left;
+}
+span{
+    font-size: 5px;
+}
+
+.myDiv{
+    border: white;
+    background-color: white;
+    background-image: url(ajlogo.png);
+    width: 10px;
+    height: 10px;
+}
+
+.time{
+    border: 5px;
+    background-color: white;
+    text-align: center;    
+}
+span{
+    font-size: 12px;
+}
+
+.MaxMarks{
+    border: 5px;
+    background-color: white;
+    text-align: center;
+    margin-top: 0px;
+}
+span{
+    font: size 12px; 
+}
+
+.Note{
+    border: 5px;
+    background-color: white;
+    text-align: center ;
+}
+span{
+    font-size: 12px;
+}
+
+.Marks{
+    text-align: center;
+}
+span{
+    font-size: 10px;
+}
+
+
+
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
